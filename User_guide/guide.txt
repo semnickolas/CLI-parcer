@@ -1,0 +1,10 @@
+Available commands:
+
+   parse -URL - command use with URL of necessary site, after this command enter 'report' for get full information;
+         example - 'parse -www.google.com' or 'parse -http://www.google.com'
+
+   report -domain - command use with URL of necessary domain, give you all information about 'domain';
+          example - 'report -www.google.com' or 'report -http://www.google.com'    
+   help - show all available commands;
+
+   quit - enter for close application;
